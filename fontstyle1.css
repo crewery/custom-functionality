@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url(https://rawcdn.githack.com/crewery/custom-functionality/03f691732395d719bbf49d789dd73a57ff551c3b/icomoon.eot);
-  src:  url(https://rawcdn.githack.com/crewery/custom-functionality/03f691732395d719bbf49d789dd73a57ff551c3b/icomoon.eot) format('embedded-opentype'),
-    url(https://rawcdn.githack.com/crewery/custom-functionality/03f691732395d719bbf49d789dd73a57ff551c3b/icomoon.ttf) format('truetype'),
-    url(https://rawcdn.githack.com/crewery/custom-functionality/03f691732395d719bbf49d789dd73a57ff551c3b/icomoon.woff) format('woff'),
-    url(https://rawcdn.githack.com/crewery/custom-functionality/03f691732395d719bbf49d789dd73a57ff551c3b/icomoon.svg) format('svg');
+  src:  url(https://rawcdn.githack.com/crewery/custom-functionality/03f691732395d719bbf49d789dd73a57ff551c3b/icomoon.eot?2r67yb);
+  src:  url(https://rawcdn.githack.com/crewery/custom-functionality/03f691732395d719bbf49d789dd73a57ff551c3b/icomoon.eot?2r67yb#iefix) format('embedded-opentype'),
+    url(https://rawcdn.githack.com/crewery/custom-functionality/03f691732395d719bbf49d789dd73a57ff551c3b/icomoon.ttf?2r67yb) format('truetype'),
+    url(https://rawcdn.githack.com/crewery/custom-functionality/03f691732395d719bbf49d789dd73a57ff551c3b/icomoon.woff?2r67yb) format('woff'),
+    url(https://rawcdn.githack.com/crewery/custom-functionality/03f691732395d719bbf49d789dd73a57ff551c3b/icomoon.svg?2r67yb#icomoon) format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
